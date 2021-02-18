@@ -1,0 +1,14 @@
+body{
+   background-color: lightgreen;
+}
+
+p{
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+    font-size: large;
+    color:black;
+}
+
+div{
+    border: 2px;
+    border-color: black;
+}
